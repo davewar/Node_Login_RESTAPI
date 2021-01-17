@@ -29,7 +29,7 @@ Pass:
 1. User able to login with username and password.
 2. User insurance policy details are shown in dashboard.
 3. User able to logout and cookie deleted.
-4. if usr.id not held - user not able to bypass the login and go directly to http://localhost:8080/dashboard
+4. if user.id not held - user not able to bypass the login and go directly to http://localhost:8080/dashboard
 
 Fail:
 
